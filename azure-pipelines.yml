@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: QABuildAgentPool
 
 steps:
 - script: echo Hello, world!
