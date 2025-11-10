@@ -1,0 +1,7 @@
+{
+    "baseurl":"https://starsbranchcouat.bmv.in.gov/BMVWebApp/Customer/QueueManagement.aspx",
+    "server":"BMVSQLQ20FWQ20FWBMVQA",
+    "database":"QA_Results",
+    "username":"AutomatedTester",
+    "password" :"XU#F8sxKeR"
+}
